@@ -1,0 +1,13 @@
+﻿Instalando o assembly 'C:\i9ti\Projetos\Plamed\NFService\bin\Release\NFService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\i9ti\Projetos\Plamed\NFService\bin\Release\NFService.InstallLog
+   assemblypath = C:\i9ti\Projetos\Plamed\NFService\bin\Release\NFService.exe
+Não foi possível encontrar instaladores públicos com o atributo RunInstallerAttribute.Yes no assembly C:\i9ti\Projetos\Plamed\NFService\bin\Release\NFService.exe.
+Confirmando o assembly 'C:\i9ti\Projetos\Plamed\NFService\bin\Release\NFService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\i9ti\Projetos\Plamed\NFService\bin\Release\NFService.InstallLog
+   assemblypath = C:\i9ti\Projetos\Plamed\NFService\bin\Release\NFService.exe
+Não foi possível encontrar instaladores públicos com o atributo RunInstallerAttribute.Yes no assembly C:\i9ti\Projetos\Plamed\NFService\bin\Release\NFService.exe.
+Remova o arquivo InstallState porque não há instaladores.

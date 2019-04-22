@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://homologacao.webiss.com.br/ws/nfse.asmx?wsdl" docRef="https://homologacao.webiss.com.br/ws/nfse.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://homologacao.webiss.com.br/ws/nfse.asmx" xmlns:q1="http://nfse.abrasf.org.br" binding="q1:NfseWSServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://homologacao.webiss.com.br/ws/nfse.asmx" xmlns:q2="http://nfse.abrasf.org.br" binding="q2:NfseWSServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

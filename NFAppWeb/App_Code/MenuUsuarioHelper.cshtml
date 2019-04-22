@@ -1,0 +1,53 @@
+﻿@helper MenuUsuario()
+{
+    <div class="navbar-custom-menu">
+        <ul class="nav navbar-nav">
+            <li class="dropdown user user-menu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    <i class="fa fa-user fa-fw" style="margin-top: 3.4px; margin-left: 5px; margin-bottom: 2.2px;"></i>
+                    <span class="hidden-xs">@User.Identity.Name</span>
+                </a>
+                <ul class="menu-usuario dropdown-menu">
+                    <li>
+                        <a href="/Login/LogOff">
+                            <i class="fa fa-sign-out fa-fw"></i>
+                            Sair
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#" data-toggle="control-sidebar"><i class="fa fa-th"></i></a>
+            </li>
+        </ul>
+    </div>
+
+}
+@helper MenuSistemas()
+{
+    <aside class="control-sidebar control-sidebar-dark">
+        <div class="tab-content">
+
+
+            <div class="tab-pane active" id="control-sidebar-home-tab">
+                <h3 class="control-sidebar-heading">Aplicativos</h3>
+                <ul class="control-sidebar-menu">
+                    <li>
+                        <a href="javascript:void(0)">
+                            <i class="menu-icon fa fa-window-maximize bg-ref"></i>
+                            <div class="menu-info">
+                                <h4 class="control-sidebar-subheading">Painel</h4>
+                                <p>Painel de Controle</p>
+                            </div>
+                        </a>
+                    </li>
+
+                </ul>
+                <!-- /.control-sidebar-menu -->
+
+            </div>
+
+
+        </div>
+    </aside>
+}

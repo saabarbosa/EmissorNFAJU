@@ -1,0 +1,6 @@
+C:\i9ti\Projetos\Plamed\NFModel\bin\Debug\NFModel.dll
+C:\i9ti\Projetos\Plamed\NFModel\bin\Debug\NFModel.pdb
+C:\i9ti\Projetos\Plamed\NFModel\obj\Debug\NFModel.csproj.CoreCompileInputs.cache
+C:\i9ti\Projetos\Plamed\NFModel\obj\Debug\NFModel.dll
+C:\i9ti\Projetos\Plamed\NFModel\obj\Debug\NFModel.pdb
+C:\i9ti\Projetos\Plamed\NFModel\obj\Debug\NFModel.csprojAssemblyReference.cache

@@ -1,0 +1,46 @@
+﻿@helper MenuPrincipal()
+{
+    <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+            <i class='fa fa-file'></i>
+            Tabelas
+            <span class="caret"></span>
+        </a>
+        <ul id="ulMenuSeguranca" class="dropdown-menu" role="menu">
+            <li>
+                <a href="~/DadosEnvio">
+                    <span>Dados de Envio</span>
+                </a>
+            </li>
+            <li>
+                <a href="~/LoteRps">
+                    <span>Lote RPS</span>
+                </a>
+            </li>
+            <li>
+                <a href="~/Rps">
+                    <span>RPS</span>
+                </a>
+            </li>
+
+        </ul>
+    </li>
+    <li>
+        <a href="~/Parametro">
+            <i class='fa fa-file'></i>
+            <span>Parametros</span>
+        </a>
+    </li>
+    <li>
+        <a href="~/Regra">
+            <i class='fa fa-file'></i>
+            <span>Regras</span>
+        </a>
+    </li>
+    <li>
+        <a href="~/Lotes">
+            <i class='fa fa-file'></i>
+            <span>Consultar Lotes Enviados</span>
+        </a>
+    </li>
+}

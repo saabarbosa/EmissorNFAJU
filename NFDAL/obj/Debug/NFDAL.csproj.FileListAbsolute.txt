@@ -1,0 +1,10 @@
+C:\i9ti\Projetos\Plamed\NFDAL\bin\Debug\NFDAL.dll.config
+C:\i9ti\Projetos\Plamed\NFDAL\bin\Debug\NFDAL.dll
+C:\i9ti\Projetos\Plamed\NFDAL\bin\Debug\NFDAL.pdb
+C:\i9ti\Projetos\Plamed\NFDAL\bin\Debug\NFModel.dll
+C:\i9ti\Projetos\Plamed\NFDAL\bin\Debug\NFModel.pdb
+C:\i9ti\Projetos\Plamed\NFDAL\obj\Debug\NFDAL.csprojAssemblyReference.cache
+C:\i9ti\Projetos\Plamed\NFDAL\obj\Debug\NFDAL.csproj.CoreCompileInputs.cache
+C:\i9ti\Projetos\Plamed\NFDAL\obj\Debug\NFDAL.csproj.CopyComplete
+C:\i9ti\Projetos\Plamed\NFDAL\obj\Debug\NFDAL.dll
+C:\i9ti\Projetos\Plamed\NFDAL\obj\Debug\NFDAL.pdb

@@ -1,0 +1,17 @@
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\NFBusiness.dll
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\NFBusiness.pdb
+C:\i9ti\Projetos\Plamed\NFBusiness\obj\Debug\NFBusiness.csproj.CoreCompileInputs.cache
+C:\i9ti\Projetos\Plamed\NFBusiness\obj\Debug\NFBusiness.dll
+C:\i9ti\Projetos\Plamed\NFBusiness\obj\Debug\NFBusiness.pdb
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\i9ti\Projetos\Plamed\NFBusiness\obj\Debug\NFBusiness.csproj.CopyComplete
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\NFBusiness.dll.config
+C:\i9ti\Projetos\Plamed\NFBusiness\obj\Debug\NFBusiness.csprojAssemblyReference.cache
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\NFModel.dll
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\NFModel.pdb
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\System.Security.AccessControl.dll
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\System.Security.Permissions.dll
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\System.Security.Principal.Windows.dll
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\NFDAL.dll
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\NFDAL.pdb
+C:\i9ti\Projetos\Plamed\NFBusiness\bin\Debug\NFDAL.dll.config

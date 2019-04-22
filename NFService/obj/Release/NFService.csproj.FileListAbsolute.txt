@@ -1,0 +1,9 @@
+C:\i9ti\Projetos\Plamed\NFService\bin\Release\NFService.exe.config
+C:\i9ti\Projetos\Plamed\NFService\bin\Release\NFService.exe
+C:\i9ti\Projetos\Plamed\NFService\bin\Release\NFService.pdb
+C:\i9ti\Projetos\Plamed\NFService\obj\Release\NFService.csprojAssemblyReference.cache
+C:\i9ti\Projetos\Plamed\NFService\obj\Release\NFService.i9Service.resources
+C:\i9ti\Projetos\Plamed\NFService\obj\Release\NFService.csproj.GenerateResource.cache
+C:\i9ti\Projetos\Plamed\NFService\obj\Release\NFService.csproj.CoreCompileInputs.cache
+C:\i9ti\Projetos\Plamed\NFService\obj\Release\NFService.exe
+C:\i9ti\Projetos\Plamed\NFService\obj\Release\NFService.pdb

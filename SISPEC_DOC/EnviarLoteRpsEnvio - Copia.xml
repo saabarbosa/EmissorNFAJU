@@ -1,0 +1,122 @@
+<EnviarLoteRpsEnvio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.abrasf.org.br/nfse.xsd">
+  <LoteRps Id="loteRPS" versao="2.02">
+    <NumeroLote>13</NumeroLote>
+    <CpfCnpj>
+      <Cnpj>24463140000164</Cnpj>
+    </CpfCnpj>
+    <InscricaoMunicipal>1716281</InscricaoMunicipal>
+    <QuantidadeRps>2</QuantidadeRps>
+    <ListaRps>
+      <Rps>
+        <InfDeclaracaoPrestacaoServico Id="loteRPS_0">
+          <Rps>
+            <IdentificacaoRps>
+              <Numero>1</Numero>
+              <Serie>TS2</Serie>
+              <Tipo>1</Tipo>
+            </IdentificacaoRps>
+            <DataEmissao>2019-02-04</DataEmissao>
+            <Status>1</Status>
+          </Rps>
+          <Competencia>2019-02-04</Competencia>
+          <Servico>
+            <Valores>
+              <ValorServicos>52.99</ValorServicos>
+            </Valores>
+            <IssRetido>2</IssRetido>
+            <ItemListaServico>0103</ItemListaServico>
+            <CodigoCnae>6201502</CodigoCnae>
+            <CodigoTributacaoMunicipio>0103</CodigoTributacaoMunicipio>
+            <Discriminacao>Teste ... 52.99 Nonon non on onon ononon ono</Discriminacao>
+            <CodigoMunicipio>9999999</CodigoMunicipio>
+            <ExigibilidadeISS>1</ExigibilidadeISS>
+            <MunicipioIncidencia>9999999</MunicipioIncidencia>
+          </Servico>
+          <Prestador>
+            <CpfCnpj>
+              <Cnpj>24463140000164</Cnpj>
+            </CpfCnpj>
+            <InscricaoMunicipal>1716281</InscricaoMunicipal>
+          </Prestador>
+          <Tomador>
+            <IdentificacaoTomador>
+              <CpfCnpj>
+                <Cnpj>15594468000471</Cnpj>
+              </CpfCnpj>
+            </IdentificacaoTomador>
+            <RazaoSocial>PLAMED PLANO DE ASSISTENCIA MEDICA LTDA 1</RazaoSocial>
+            <Endereco>
+              <Endereco>Rua bbb</Endereco>
+              <Numero>999</Numero>
+              <Bairro>Centro1</Bairro>
+              <CodigoMunicipio>2800308</CodigoMunicipio>
+              <Uf>SE</Uf>
+              <Cep>49000001</Cep>
+            </Endereco>
+            <Contato>
+              <Telefone>79465465465</Telefone>
+              <Email>saabarbosa@msn.com</Email>
+            </Contato>
+          </Tomador>
+          <OptanteSimplesNacional>2</OptanteSimplesNacional>
+          <IncentivoFiscal>2</IncentivoFiscal>
+        </InfDeclaracaoPrestacaoServico>
+      </Rps>
+      </Rps>	  
+        <InfDeclaracaoPrestacaoServico Id="loteRPS_1">
+          <Rps>
+            <IdentificacaoRps>
+              <Numero>4</Numero>
+              <Serie>TS2</Serie>
+              <Tipo>1</Tipo>
+            </IdentificacaoRps>
+            <DataEmissao>2019-02-04</DataEmissao>
+            <Status>1</Status>
+          </Rps>
+          <Competencia>2019-02-04</Competencia>
+          <Servico>
+            <Valores>
+              <ValorServicos>53.99</ValorServicos>
+            </Valores>
+            <IssRetido>2</IssRetido>
+            <ItemListaServico>0103</ItemListaServico>
+            <CodigoCnae>6201502</CodigoCnae>
+            <CodigoTributacaoMunicipio>0103</CodigoTributacaoMunicipio>
+            <Discriminacao>Teste ...53.99 Nonon non on onon ononon ono</Discriminacao>
+            <CodigoMunicipio>9999999</CodigoMunicipio>
+            <ExigibilidadeISS>1</ExigibilidadeISS>
+            <MunicipioIncidencia>9999999</MunicipioIncidencia>
+          </Servico>
+          <Prestador>
+            <CpfCnpj>
+              <Cnpj>24463140000164</Cnpj>
+            </CpfCnpj>
+            <InscricaoMunicipal>1716281</InscricaoMunicipal>
+          </Prestador>
+          <Tomador>
+            <IdentificacaoTomador>
+              <CpfCnpj>
+                <Cnpj>15594468000471</Cnpj>
+              </CpfCnpj>
+            </IdentificacaoTomador>
+            <RazaoSocial>PLAMED PLANO DE ASSISTENCIA MEDICA LTDA 2</RazaoSocial>
+            <Endereco>
+              <Endereco>Rua bbb</Endereco>
+              <Numero>999</Numero>
+              <Bairro>Centro1</Bairro>
+              <CodigoMunicipio>2800308</CodigoMunicipio>
+              <Uf>SE</Uf>
+              <Cep>49000001</Cep>
+            </Endereco>
+            <Contato>
+              <Telefone>79465465465</Telefone>
+              <Email>saabarbosa@msn.com</Email>
+            </Contato>
+          </Tomador>
+          <OptanteSimplesNacional>2</OptanteSimplesNacional>
+          <IncentivoFiscal>2</IncentivoFiscal>
+        </InfDeclaracaoPrestacaoServico>		
+      </Rps>
+    </ListaRps>
+  </LoteRps>
+</EnviarLoteRpsEnvio>

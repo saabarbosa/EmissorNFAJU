@@ -1,0 +1,2 @@
+1	*	NULL		Digite o corpo da nota aqui como quiser {ValorServicos}												NULL
+2	CpfCnpj	07163003000195	Valor a ser pago na nota fiscal é de R$ |ValorServicos|\nEste é o valor atual do serviço: R$ |ValorServicos|\n|CodigoCnae|\n|DataEmissao	DataEmissao{+30}|
